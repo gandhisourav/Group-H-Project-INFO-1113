@@ -1,1 +1,8 @@
 This project is for those who love to play cricket. This application is going to take login credentials of the player then player is going to upload his/her availability. 
+This application will require the user to pay a minimum fee for the purchase of equipments and Venue selection. 
+The System also requires the age of player in order to divide them into groups according to their age groups.
+System creates the teams and scheduler make schedules of the matches and venue.
+System sends the final confirmation to the user for the decided matches and after user confirms then the user is scheduled for the match.
+Players are rewarded who perform well.
+Scores are also available by the system.
+That's it!!
